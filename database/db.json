@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "0ac7",
+      "fullName": "Farda Ramdhan",
+      "email": "fardazza@gmail.com",
+      "username": "fdzizhere",
+      "phoneNumber": "085737347745",
+      "password": "1234567890"
+    },
+    {
+      "id": "b664",
+      "fullName": "Tzuyu",
+      "email": "thinkaboutzu@gmail.com",
+      "username": "thinkaboutzu",
+      "phoneNumber": "081917073735",
+      "password": "12345"
+    },
+    {
+      "id": "3bb5",
+      "email": "farda19001@mail.unpad.ac.id",
+      "username": "itsyourtawwab",
+      "phoneNumber": "081915909707",
+      "password": "0099887766",
+      "fullName": "Tawwab"
+    },
+    {
+      "id": "974f",
+      "email": "yuna@gmail.com",
+      "username": "igotyuandme",
+      "phoneNumber": "081909202111",
+      "password": "1122334455",
+      "fullName": "Yuna"
+    },
+    {
+      "id": "a5ce",
+      "email": "yeji@gmail.com",
+      "username": "yezyizheres",
+      "phoneNumber": "081123321456",
+      "role": "ROLE_DONOR",
+      "fullName": "Yeji"
+    },
+    {
+      "id": "9ab6",
+      "email": "yakuza@gmail.com",
+      "username": "yakuza",
+      "phoneNumber": "089987765543",
+      "password": "zxcvbnm",
+      "role": "ROLE_ORPHANAGE",
+      "name": "Panti Asuhan Yakuza",
+      "address": "Jalan MT Haryono no 9, Malang",
+      "webUrl": "https://pantiasuhanyasibu.org/"
+    },
+    {
+      "id": "976b",
+      "email": "imnotwinter@gmail.com",
+      "username": "imwinter",
+      "phoneNumber": "087655255691",
+      "role": "ROLE_DONOR",
+      "fullName": "Winter"
+    },
+    {
+      "id": "167d",
+      "email": "fdzccc@gmail.com",
+      "username": "nono",
+      "password": "123456eee",
+      "role": "ROLE_ORPHANAGE",
+      "name": "Panti Asuhan Nono",
+      "address": "Jalan Raya Jatinangor no 286, Bandung",
+      "webUrl": "www.unicef.com"
+    }
+  ]
+}
